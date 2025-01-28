@@ -1,73 +1,67 @@
-# Emanuel Telles Chaves
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/emanuel-telles-chaves-7b8065233/)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:etellesc@nd.edu)
+# Telles-Python-Portfolio
 
-## 🎓 About Me
-Finance major at Notre Dame's Mendoza College of Business with a focus on the intersection of machine learning and financial markets. Co-founder of ValuEstate, where I am developing ML-powered valuation models for commercial real estate with 3 more co-founders. Experienced in investment banking, M&A analysis, and financial modeling.
+## 🎯 Purpose
+This repository serves as a comprehensive portfolio of my Python-based data science projects, showcasing my skills in data analysis, machine learning, and financial modeling. Each project demonstrates different aspects of my technical abilities and problem-solving approach.
 
-## 🚀 Featured Projects
+## 📂 Repository Structure
 
-### ValuEstate - ML-Powered CRE Valuation Platform
-- Developed machine learning models for commercial real estate valuation across multiple sectors
-- Implemented predictive analytics using vacancy rates, household formation, and transportation network data
-- Created an AI-driven UI delivering multi-scenario property valuations
-- **Tech Stack**: Python, Machine Learning, Data Analytics
+### `/exploratory-data-analysis`
+- Projects focused on data cleaning, preprocessing, and initial analysis
+- Statistical analysis and hypothesis testing
+- Feature engineering and selection
 
-### Financial Market Analysis Tools
-- Built comprehensive M&A valuation models for IBM-Perficient acquisition analysis
-- Developed Super-Priority Exchange models for bankruptcy risk assessment
-- Created WACC and Adjusted EBITDA calculation systems for cybersecurity industry valuations
-- **Skills Applied**: Financial Modeling, Python, Data Analysis
+### `/visualizations`
+- Data visualization projects using libraries like matplotlib, seaborn, and plotly
+- Interactive dashboards
+- Financial charts and technical analysis
 
-### Research Publications
-- Published paper: "The Effect of New Financial Information on Stock Markets"
-- Focus on quantitative analysis of market reactions to financial data
-- [View Paper](https://drive.google.com/drive/folders/1HCNIvcxpTbBukOlQ7cmqFyJuZZuJJotQ?usp=sharing)
+### `/machine-learning`
+- Predictive modeling projects
+- Classification and regression analyses
+- Model evaluation and optimization
+- Real estate valuation models
 
-## 💻 Technical Skills
-- **Programming Languages**: Python, SQL, JavaScript, Rust
-- **Data Analysis**: Financial Modeling, Valuation, ML/AI
-- **Tools & Frameworks**: [Specific frameworks and tools to be added]
+### `/financial-models`
+- Quantitative finance projects
+- M&A analysis tools
+- Valuation models
+- Risk assessment frameworks
 
-## 🌐 Languages
-- Portuguese (Native)
-- English (Native)
-- Spanish (Native)
-- German (Limited)
+### `/utilities`
+- Reusable code modules
+- Custom functions and classes
+- Data processing pipelines
 
-## 📈 Professional Experience
+## 🚀 Projects in Development
+1. Commercial Real Estate Valuation Model
+   - Machine learning approach to property valuation
+   - Integration of multiple data sources
+   - Predictive analytics for market trends
 
-### Internal M&A Advisor - Grupo Telles
-- Led valuation analysis for subsidiary sale of Brazilian conglomerate
-- Coordinated with cross-functional teams for financial modeling
-- **Duration**: May 2024 - Oct 2024
+2. Financial Market Analysis Tools
+   - Automated M&A valuation models
+   - Market sentiment analysis
+   - Technical indicator calculations
 
-### Investment Banking Intern - RGS Partners
-- Conducted market research in Renewable Energy, AgTech, Infrastructure sectors
-- Applied data-driven approaches to client prospection
-- **Duration**: Jun 2023 - Aug 2023
+3. Data Visualization Dashboard
+   - Interactive property market analysis
+   - Financial metrics visualization
+   - Real-time data integration
 
-### Investment Banking Intern - Astor Capital
-- Created financial models for international transactions
-- Developed valuation frameworks for retail and cybersecurity sectors
-- **Duration**: April 2023 - Jun 2023
+## 💻 Technologies
+- **Primary Language**: Python
+- **Data Analysis**: pandas, numpy
+- **Machine Learning**: scikit-learn, TensorFlow
+- **Visualization**: matplotlib, seaborn, plotly
+- **Database**: SQL
+- **Version Control**: Git
 
-## 📚 Education
-**University of Notre Dame - Mendoza College of Business**
-- BBA in Finance
-- Minors: German, Computer & Digital Technologies
-- GPA: 3.5/4.0
-- Expected Graduation: May 2025
-
-## 🏆 Achievements
-- Winner, Morgan Stanley M&A Pitch Competition
-- [Additional achievements to be added]
-
-## 🔍 Interests
-- Painting
-- Geoguessr
-- Brazilian Jiu-jitsu
-- Pharmaceutical Research
+## 📊 Project Status
+This portfolio is actively maintained and updated with new projects. Each project includes:
+- Detailed documentation
+- Code comments and explanations
+- Requirements and setup instructions
+- Results and insights
 
 ---
-📫 **Contact Me**: [etellesc@nd.edu](mailto:etellesc@nd.edu) [telleschaves738@gmail.com](mailto:telleschaves738@gmail.com)
+📫 **Contact**: [etellesc@nd.edu](mailto:etellesc@nd.edu)
