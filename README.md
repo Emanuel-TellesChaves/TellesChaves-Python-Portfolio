@@ -70,4 +70,4 @@ Finance major at Notre Dame's Mendoza College of Business with a focus on the in
 - Pharmaceutical Research
 
 ---
-📫 **Contact Me**: [etellesc@nd.edu](mailto:etellesc@nd.edu)
+📫 **Contact Me**: [etellesc@nd.edu](mailto:etellesc@nd.edu) [telleschaves738@gmail.com](mailto:telleschaves738@gmail.com)
